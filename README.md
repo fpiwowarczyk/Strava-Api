@@ -10,7 +10,7 @@ https://www.formdev.com/flatlaf/
 
 ## Plan
 
-Use spring and strava api.
+Use spring and strava api. As a fornt use FlatLaf
 
 ## TODO 
 
